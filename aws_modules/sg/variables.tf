@@ -1,0 +1,10 @@
+variable "name" {}
+variable "from_port_tcp1" {}
+variable "to_port_tcp1" {}
+variable "from_port_tcp2" {}
+variable "to_port_tcp2" {}
+variable "from_port_tcp3" {}
+variable "to_port_tcp3" {}
+variable "protocol" {}
+variable "cidr_block" {}
+variable "vpc_id" {}
